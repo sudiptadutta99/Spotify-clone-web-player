@@ -10,7 +10,7 @@ This is a **Spotify clone** web player created using only **HTML** and **CSS**. 
 - **Trending & Featured Charts**: Showcases trending music and featured charts.
   
 ## 🚀 Live Demo
-Check out the live demo here: [Spotify Clone Web Player](#)
+Check out the live demo here: [Spotify Clone Web Player](#) : Live demo link comming soon.
 
 ## 💻 Technologies Used
 - **HTML5**: For structuring the web page.
@@ -19,14 +19,15 @@ Check out the live demo here: [Spotify Clone Web Player](#)
 ## 📂 Project Structure
 
 ## 🎨 Screenshots
+Here is a preview of the Spotify Clone Web Player:
 ![Spotify Clone Screenshot](./assets/screenshot.png)
 
 ## 📝 License
-This project is not licensed.
+This project is not licensed. You are free to interpret and modify according to your use.
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+Contributions, issues, and feature requests are welcome! Feel free to check and reach out on the links below.
 
 ## 👨‍💻 Author
-GitHub: sudiptadutta99
-Twitter: @sudiptadutta99
+GitHub: [sudiptadutta99](https://github.com/sudiptadutta99)
+Twitter: [@sudiptadutta99](https://x.com/sudiptadutta99)

@@ -17,3 +17,16 @@ Check out the live demo here: [Spotify Clone Web Player](#)
 - **CSS3**: For styling the web page and creating the Spotify-like UI.
   
 ## 📂 Project Structure
+
+## 🎨 Screenshots
+![Spotify Clone Screenshot](./assets/screenshot.png)
+
+## 📝 License
+This project is not licensed.
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+## 👨‍💻 Author
+GitHub: sudiptadutta99
+Twitter: @sudiptadutta99

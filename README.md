@@ -23,7 +23,7 @@ Here is a preview of the Spotify Clone Web Player:
 ![Spotify Clone Screenshot](./assets/screenshot.png)
 
 ## 📝 License
-This project is not licensed. You are free to interpret and modify according to your use.
+The MIT License (MIT)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check and reach out on the links below.

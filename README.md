@@ -31,3 +31,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check and 
 ## 👨‍💻 Author
 GitHub: [sudiptadutta99](https://github.com/sudiptadutta99)
 Twitter: [@sudiptadutta99](https://x.com/sudiptadutta99)
+
+Thanks for checking out my project!
